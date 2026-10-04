@@ -1,6 +1,7 @@
 # Q1: Number Analyzer
-# Why a for loop? We know in advance how many numbers to process (1 to N),
+# Why a for loop? We know in advance how many numbers to process (1 to N),5
 # so a for loop with range() is the natural choice.
+
 
 try:
     n = int(input("Enter a number N: "))
