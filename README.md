@@ -2,7 +2,7 @@
 
 **Name:** Trupti Palande
 **Super30 Batch:** Super 30 September
-**Video explanation:** [Paste video link here]
+**Video explanation:** 
 
 ## About this assignment
 
